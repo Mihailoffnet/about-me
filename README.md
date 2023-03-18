@@ -1,5 +1,3 @@
-# about me
-
 ## Виктор Михайлов
 
 ![my photo](/Vitya2014.jpg)
