@@ -1,8 +1,8 @@
 ## Виктор Михайлов
 
-![my photo](/Vitya2014.jpg)
+<!-- ![my photo](/Vitya2014.jpg) -->
 
-Уфа · +79178000045
+Уфа · +70000000000
 
 Email: mihailoff@inbox.ru
 
